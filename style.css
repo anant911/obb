@@ -1,0 +1,44 @@
+.heading{
+    margin: 0px;
+    width: 100%;
+    font-size: 30px;
+}
+
+#note{
+    font-size: 20px;
+    color:rgb(15, 77, 97);
+}
+body{
+    background-size: cover;
+}
+
+.steve
+{
+width: 200px;
+border-radius: 100px;
+
+}
+
+.speeed
+{
+    float:left;
+    margin-left: 50px;
+}
+
+.vol{
+    float:right;
+    margin-right: 50px;
+}
+
+.play_button
+{
+    font-size: 25px;
+    width: 120px;
+}
+
+
+canvas
+{
+    border:3px solid cyan;
+    
+}
